@@ -9,6 +9,12 @@
     <link rel="stylesheet" href="resources/css/foundation/foundation.css" />
     <link rel="stylesheet" href="resources/css/foundation/normalize.css" />
     <link rel="stylesheet" href="resources/css/frontend/homepage/app.css" />
-    <link rel="stylesheet" href="../resources/css/frontend/card/card.css" />
+    <link rel="stylesheet" href="resources/css/frontend/card/card.css" />
+    <?php
+    for($i=0;$i<sizeof($css_array);$i++)
+    {
+        echo '<link rel="stylesheet" href="resources/css/common/'.$css_array[$i].'.css" />';
+    }
+    ?>
 </head>
 <body>

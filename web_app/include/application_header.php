@@ -4,7 +4,7 @@
             <nav class="top-bar">
                 <ul>
                     <li class="name">
-                        <a href="http://www.utopiadevelopers.com" target="_blank"><img
+                        <a href="/"><img
                                 src="resources/img/common/utopia.png"></a>
                     </li>
                     <li class="toggle-topbar"><a href="#"></a></li>

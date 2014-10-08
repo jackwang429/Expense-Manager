@@ -15,7 +15,7 @@
                     <a href="terms.php">Terms of Use</a>
                 </div>
             </div>
-            <label style="text-align:center;margin-top:30px;">Copyright &copy; Utopia Developers 2013</label>
+            <label style="text-align:center;margin-top:30px;">Copyright &copy; <a style="font-size: 0.875rem;" href="http://www.utopiadevelopers.com" target="_blank">Utopia Developers</a> 2013</label>
         </div>
     </div>
 </div>

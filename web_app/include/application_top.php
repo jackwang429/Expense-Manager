@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="resources/css/foundation/foundation.css" />
     <link rel="stylesheet" href="resources/css/foundation/normalize.css" />
     <link rel="stylesheet" href="resources/css/frontend/homepage/app.css" />
-    <link rel="stylesheet" href="resources/css/frontend/homepage/login.css" />
     <link rel="stylesheet" href="../resources/css/frontend/card/card.css" />
 </head>
 <body>

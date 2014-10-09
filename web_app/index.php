@@ -1,10 +1,12 @@
 <?php
 
 require 'include/application_includes.php';
+
+$js_array  = array('dropzone/dropzone');
+$css_array = array('dropzone/basic','dropzone/dropdown');
+
 require 'include/application_top.php';
 require 'include/application_header.php';
-
-$js_array = array('dropzone');
 ?>
 <div style="margin-top: 100px; margin-bottom: 110px;">
     <div class="row">

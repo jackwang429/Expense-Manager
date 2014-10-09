@@ -2,7 +2,7 @@
 
 for($i=0;$i<sizeof($js_array);$i++)
 {
-    echo '<script src="resources/js/common/'.$js_array[$i].'.js"></script>';
+    echo '<script src="resources/js/modules/'.$js_array[$i].'.js"></script>';
 }
 
 ?>

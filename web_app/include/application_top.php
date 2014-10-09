@@ -13,7 +13,7 @@
     <?php
     for($i=0;$i<sizeof($css_array);$i++)
     {
-        echo '<link rel="stylesheet" href="resources/css/common/'.$css_array[$i].'.css" />';
+        echo '<link rel="stylesheet" href="resources/css/modules/'.$css_array[$i].'.css" />';
     }
     ?>
 </head>

@@ -1,3 +1,6 @@
+<script src="resources/js/vendor/jquery.js"></script>
+<script src="resources/js/foundation.min.js"></script>
+
 <?php
 
 for($i=0;$i<sizeof($js_array);$i++)
@@ -7,8 +10,6 @@ for($i=0;$i<sizeof($js_array);$i++)
 
 ?>
 
-<script src="resources/js/vendor/jquery.js"></script>
-<script src="resources/js/foundation.min.js"></script>
 <script>
     $(document).foundation();
 </script>

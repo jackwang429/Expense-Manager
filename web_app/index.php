@@ -2,7 +2,7 @@
 
 require 'include/application_includes.php';
 
-$js_array  = array('dropzone/dropzone');
+$js_array  = array('dropzone/dropzone','dropzone/dashboard');
 $css_array = array('dropzone/basic','dropzone/dropzone');
 
 require 'include/application_top.php';

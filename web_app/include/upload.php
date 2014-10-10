@@ -14,7 +14,7 @@ if (!empty($_FILES)) {
 
     $targetPath = dirname( __FILE__ ) . $ds. $storeFolder . $ds;  //4
 
-    $targetFile =  $targetPath. $_FILES['file']['name'];  //5
+    $targetFile =  $targetPath.'expense.db';  //5
 
     move_uploaded_file($tempFile,$targetFile); //6
 

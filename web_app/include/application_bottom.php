@@ -1,5 +1,7 @@
 <script src="resources/js/vendor/jquery.js"></script>
 <script src="resources/js/foundation.min.js"></script>
+<script src="resources/js/foundation/foundation.alert.js"></script>
+<script src="resources/js/common.js"></script>
 
 <?php
 
